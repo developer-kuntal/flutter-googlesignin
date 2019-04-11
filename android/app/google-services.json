@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "587557654530",
+    "firebase_url": "https://my-first-firebase-projec-baf80.firebaseio.com",
+    "project_id": "my-first-firebase-projec-baf80",
+    "storage_bucket": "my-first-firebase-projec-baf80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587557654530:android:1f48bbebf2cafc0b",
+        "android_client_info": {
+          "package_name": "mtechviral.fdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOF8c4I28qavKz-UNcr3ZgcG_O6mwkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
